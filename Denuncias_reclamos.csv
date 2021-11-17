@@ -1,0 +1,1341 @@
+Año,Mes,Operador,Motivo de reclamo,Número de reclamos
+2019,10,AMX Argentina S.A. (Claro),Facturación,13
+2019,10,AMX Argentina S.A. (Claro),Gestiones Administrativas,10
+2019,10,AMX Argentina S.A. (Claro),Otros,6
+2019,10,AMX Argentina S.A. (Claro),Problemas Técnicos,8
+2019,10,Arnet S.A.,Problemas Técnicos,3
+2019,10,Fibertel S.A. (TCI),Facturación,6
+2019,10,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2019,10,Fibertel S.A. (TCI),Problemas Técnicos,4
+2019,10,Movistar - Telefonica Moviles Argentina S.A.,Facturación,43
+2019,10,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,21
+2019,10,Movistar - Telefonica Moviles Argentina S.A.,Otros,34
+2019,10,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,20
+2019,10,Otros,Facturación,11
+2019,10,Otros,Gestiones Administrativas,9
+2019,10,Otros,Otros,6
+2019,10,Otros,Problemas Técnicos,31
+2019,10,SION S.A.,Gestiones Administrativas,1
+2019,10,SION S.A.,Problemas Técnicos,2
+2019,10,TELECENTRO S.A.,Facturación,4
+2019,10,TELECENTRO S.A.,Gestiones Administrativas,15
+2019,10,TELECENTRO S.A.,Otros,1
+2019,10,TELECENTRO S.A.,Problemas Técnicos,30
+2019,10,Telecom Argentina S.A.,Facturación,92
+2019,10,Telecom Argentina S.A.,Gestiones Administrativas,127
+2019,10,Telecom Argentina S.A.,Otros,27
+2019,10,Telecom Argentina S.A.,Problemas Técnicos,326
+2019,10,Telefonica de Argentina S.A.,Facturación,60
+2019,10,Telefonica de Argentina S.A.,Gestiones Administrativas,199
+2019,10,Telefonica de Argentina S.A.,Otros,5
+2019,10,Telefonica de Argentina S.A.,Problemas Técnicos,398
+2019,9,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2019,9,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,1
+2019,9,AMX Argentina S.A. (Claro),Facturación,20
+2019,9,AMX Argentina S.A. (Claro),Gestiones Administrativas,9
+2019,9,AMX Argentina S.A. (Claro),Otros,9
+2019,9,AMX Argentina S.A. (Claro),Problemas Técnicos,5
+2019,9,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2019,9,Fibertel S.A. (TCI),Otros,2
+2019,9,Fibertel S.A. (TCI),Problemas Técnicos,11
+2019,9,Movistar - Telefonica Moviles Argentina S.A.,Facturación,39
+2019,9,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,33
+2019,9,Movistar - Telefonica Moviles Argentina S.A.,Otros,22
+2019,9,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,19
+2019,9,NSS S.A.,Facturación,1
+2019,9,NSS S.A.,Gestiones Administrativas,1
+2019,9,Otros,Facturación,13
+2019,9,Otros,Gestiones Administrativas,10
+2019,9,Otros,Otros,5
+2019,9,Otros,Problemas Técnicos,36
+2019,9,TELECENTRO S.A.,Facturación,12
+2019,9,TELECENTRO S.A.,Gestiones Administrativas,44
+2019,9,TELECENTRO S.A.,Otros,5
+2019,9,TELECENTRO S.A.,Problemas Técnicos,43
+2019,9,Telecom Argentina S.A.,Facturación,110
+2019,9,Telecom Argentina S.A.,Gestiones Administrativas,137
+2019,9,Telecom Argentina S.A.,Otros,28
+2019,9,Telecom Argentina S.A.,Problemas Técnicos,294
+2019,9,Telefonica de Argentina S.A.,Facturación,74
+2019,9,Telefonica de Argentina S.A.,Gestiones Administrativas,206
+2019,9,Telefonica de Argentina S.A.,Otros,6
+2019,9,Telefonica de Argentina S.A.,Problemas Técnicos,387
+2019,9,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2019,9,TELMEX Argentina S.A.,Problemas Técnicos,1
+2019,8,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,1
+2019,8,AMX Argentina S.A. (Claro),Facturación,14
+2019,8,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2019,8,AMX Argentina S.A. (Claro),Otros,9
+2019,8,AMX Argentina S.A. (Claro),Problemas Técnicos,2
+2019,8,Fibertel S.A. (TCI),Facturación,5
+2019,8,Fibertel S.A. (TCI),Gestiones Administrativas,4
+2019,8,Fibertel S.A. (TCI),Otros,3
+2019,8,Fibertel S.A. (TCI),Problemas Técnicos,10
+2019,8,Movistar - Telefonica Moviles Argentina S.A.,Facturación,49
+2019,8,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,25
+2019,8,Movistar - Telefonica Moviles Argentina S.A.,Otros,34
+2019,8,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,106
+2019,8,NSS S.A.,Gestiones Administrativas,1
+2019,8,Otros,Facturación,10
+2019,8,Otros,Gestiones Administrativas,12
+2019,8,Otros,Otros,6
+2019,8,Otros,Problemas Técnicos,30
+2019,8,TELECENTRO S.A.,Facturación,15
+2019,8,TELECENTRO S.A.,Gestiones Administrativas,32
+2019,8,TELECENTRO S.A.,Otros,6
+2019,8,TELECENTRO S.A.,Problemas Técnicos,37
+2019,8,Telecom Argentina S.A.,Facturación,96
+2019,8,Telecom Argentina S.A.,Gestiones Administrativas,172
+2019,8,Telecom Argentina S.A.,Otros,21
+2019,8,Telecom Argentina S.A.,Problemas Técnicos,341
+2019,8,Telefonica de Argentina S.A.,Facturación,99
+2019,8,Telefonica de Argentina S.A.,Gestiones Administrativas,248
+2019,8,Telefonica de Argentina S.A.,Otros,4
+2019,8,Telefonica de Argentina S.A.,Problemas Técnicos,419
+2019,8,TELMEX Argentina S.A.,Facturación,1
+2019,8,TELMEX Argentina S.A.,Gestiones Administrativas,1
+2019,8,TELMEX Argentina S.A.,Problemas Técnicos,4
+2019,7,Advance Telecomunicaciones S.A. (Speedy),Otros,1
+2019,7,AMX Argentina S.A. (Claro),Facturación,13
+2019,7,AMX Argentina S.A. (Claro),Gestiones Administrativas,12
+2019,7,AMX Argentina S.A. (Claro),Otros,8
+2019,7,AMX Argentina S.A. (Claro),Problemas Técnicos,5
+2019,7,Arnet S.A.,Problemas Técnicos,2
+2019,7,Fibertel S.A. (TCI),Facturación,6
+2019,7,Fibertel S.A. (TCI),Gestiones Administrativas,5
+2019,7,Fibertel S.A. (TCI),Otros,4
+2019,7,Fibertel S.A. (TCI),Problemas Técnicos,7
+2019,7,Movistar - Telefonica Moviles Argentina S.A.,Facturación,48
+2019,7,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,36
+2019,7,Movistar - Telefonica Moviles Argentina S.A.,Otros,33
+2019,7,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,19
+2019,7,NSS S.A.,Facturación,1
+2019,7,NSS S.A.,Gestiones Administrativas,2
+2019,7,NSS S.A.,Otros,1
+2019,7,Otros,Facturación,25
+2019,7,Otros,Gestiones Administrativas,14
+2019,7,Otros,Otros,3
+2019,7,Otros,Problemas Técnicos,65
+2019,7,SION S.A.,Problemas Técnicos,1
+2019,7,TELECENTRO S.A.,Facturación,19
+2019,7,TELECENTRO S.A.,Gestiones Administrativas,35
+2019,7,TELECENTRO S.A.,Otros,4
+2019,7,TELECENTRO S.A.,Problemas Técnicos,40
+2019,7,Telecom Argentina S.A.,Facturación,121
+2019,7,Telecom Argentina S.A.,Gestiones Administrativas,153
+2019,7,Telecom Argentina S.A.,Otros,37
+2019,7,Telecom Argentina S.A.,Problemas Técnicos,476
+2019,7,Telefonica de Argentina S.A.,Facturación,107
+2019,7,Telefonica de Argentina S.A.,Gestiones Administrativas,256
+2019,7,Telefonica de Argentina S.A.,Otros,5
+2019,7,Telefonica de Argentina S.A.,Problemas Técnicos,532
+2019,7,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2019,7,TELMEX Argentina S.A.,Problemas Técnicos,2
+2019,6,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,1
+2019,6,AMX Argentina S.A. (Claro),Facturación,19
+2019,6,AMX Argentina S.A. (Claro),Gestiones Administrativas,9
+2019,6,AMX Argentina S.A. (Claro),Otros,6
+2019,6,AMX Argentina S.A. (Claro),Problemas Técnicos,10
+2019,6,Arnet S.A.,Problemas Técnicos,2
+2019,6,Fibertel S.A. (TCI),Facturación,3
+2019,6,Fibertel S.A. (TCI),Gestiones Administrativas,4
+2019,6,Fibertel S.A. (TCI),Problemas Técnicos,8
+2019,6,Movistar - Telefonica Moviles Argentina S.A.,Facturación,27
+2019,6,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,22
+2019,6,Movistar - Telefonica Moviles Argentina S.A.,Otros,16
+2019,6,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,23
+2019,6,NSS S.A.,Gestiones Administrativas,2
+2019,6,Otros,Facturación,17
+2019,6,Otros,Gestiones Administrativas,4
+2019,6,Otros,Otros,4
+2019,6,Otros,Problemas Técnicos,37
+2019,6,TELECENTRO S.A.,Facturación,22
+2019,6,TELECENTRO S.A.,Gestiones Administrativas,45
+2019,6,TELECENTRO S.A.,Otros,3
+2019,6,TELECENTRO S.A.,Problemas Técnicos,33
+2019,6,Telecom Argentina S.A.,Facturación,108
+2019,6,Telecom Argentina S.A.,Gestiones Administrativas,132
+2019,6,Telecom Argentina S.A.,Otros,24
+2019,6,Telecom Argentina S.A.,Problemas Técnicos,453
+2019,6,Telefonica de Argentina S.A.,Facturación,87
+2019,6,Telefonica de Argentina S.A.,Gestiones Administrativas,186
+2019,6,Telefonica de Argentina S.A.,Otros,7
+2019,6,Telefonica de Argentina S.A.,Problemas Técnicos,396
+2019,6,TELMEX Argentina S.A.,Facturación,1
+2019,6,TELMEX Argentina S.A.,Gestiones Administrativas,1
+2019,6,TELMEX Argentina S.A.,Problemas Técnicos,1
+2019,5,Advance Telecomunicaciones S.A. (Speedy),Otros,1
+2019,5,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,1
+2019,5,AMX Argentina S.A. (Claro),Facturación,14
+2019,5,AMX Argentina S.A. (Claro),Gestiones Administrativas,9
+2019,5,AMX Argentina S.A. (Claro),Otros,12
+2019,5,AMX Argentina S.A. (Claro),Problemas Técnicos,16
+2019,5,Arnet S.A.,Problemas Técnicos,1
+2019,5,Fibertel S.A. (TCI),Facturación,3
+2019,5,Fibertel S.A. (TCI),Gestiones Administrativas,3
+2019,5,Fibertel S.A. (TCI),Otros,4
+2019,5,Fibertel S.A. (TCI),Problemas Técnicos,14
+2019,5,Movistar - Telefonica Moviles Argentina S.A.,Facturación,51
+2019,5,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,29
+2019,5,Movistar - Telefonica Moviles Argentina S.A.,Otros,28
+2019,5,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,33
+2019,5,NSS S.A.,Problemas Técnicos,1
+2019,5,Otros,Facturación,13
+2019,5,Otros,Gestiones Administrativas,15
+2019,5,Otros,Otros,4
+2019,5,Otros,Problemas Técnicos,57
+2019,5,TELECENTRO S.A.,Facturación,22
+2019,5,TELECENTRO S.A.,Gestiones Administrativas,32
+2019,5,TELECENTRO S.A.,Otros,10
+2019,5,TELECENTRO S.A.,Problemas Técnicos,36
+2019,5,Telecom Argentina S.A.,Facturación,90
+2019,5,Telecom Argentina S.A.,Gestiones Administrativas,174
+2019,5,Telecom Argentina S.A.,Otros,31
+2019,5,Telecom Argentina S.A.,Problemas Técnicos,621
+2019,5,Telefonica de Argentina S.A.,Facturación,112
+2019,5,Telefonica de Argentina S.A.,Gestiones Administrativas,284
+2019,5,Telefonica de Argentina S.A.,Otros,10
+2019,5,Telefonica de Argentina S.A.,Problemas Técnicos,508
+2019,5,TELMEX Argentina S.A.,Facturación,2
+2019,4,Advance Telecomunicaciones S.A. (Speedy),Facturación,1
+2019,4,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2019,4,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,2
+2019,4,AMX Argentina S.A. (Claro),Facturación,22
+2019,4,AMX Argentina S.A. (Claro),Gestiones Administrativas,8
+2019,4,AMX Argentina S.A. (Claro),Otros,7
+2019,4,AMX Argentina S.A. (Claro),Problemas Técnicos,6
+2019,4,Arnet S.A.,Facturación,1
+2019,4,Arnet S.A.,Problemas Técnicos,4
+2019,4,DIRECT TV Argentina S.A.L,Facturación,2
+2019,4,DIRECT TV Argentina S.A.L,Gestiones Administrativas,5
+2019,4,Fibertel S.A. (TCI),Facturación,2
+2019,4,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2019,4,Fibertel S.A. (TCI),Otros,6
+2019,4,Fibertel S.A. (TCI),Problemas Técnicos,4
+2019,4,Movistar - Telefonica Moviles Argentina S.A.,Facturación,53
+2019,4,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,21
+2019,4,Movistar - Telefonica Moviles Argentina S.A.,Otros,31
+2019,4,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,22
+2019,4,Otros,Facturación,14
+2019,4,Otros,Gestiones Administrativas,13
+2019,4,Otros,Otros,4
+2019,4,Otros,Problemas Técnicos,44
+2019,4,TELECENTRO S.A.,Facturación,22
+2019,4,TELECENTRO S.A.,Gestiones Administrativas,27
+2019,4,TELECENTRO S.A.,Otros,14
+2019,4,TELECENTRO S.A.,Problemas Técnicos,69
+2019,4,Telecom Argentina S.A.,Facturación,95
+2019,4,Telecom Argentina S.A.,Gestiones Administrativas,160
+2019,4,Telecom Argentina S.A.,Otros,35
+2019,4,Telecom Argentina S.A.,Problemas Técnicos,681
+2019,4,Telefonica de Argentina S.A.,Facturación,106
+2019,4,Telefonica de Argentina S.A.,Gestiones Administrativas,247
+2019,4,Telefonica de Argentina S.A.,Otros,10
+2019,4,Telefonica de Argentina S.A.,Problemas Técnicos,428
+2019,4,TELMEX Argentina S.A.,Facturación,1
+2019,4,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2019,4,TELMEX Argentina S.A.,Problemas Técnicos,12
+2019,3,AMX Argentina S.A. (Claro),Facturación,15
+2019,3,AMX Argentina S.A. (Claro),Gestiones Administrativas,7
+2019,3,AMX Argentina S.A. (Claro),Otros,10
+2019,3,AMX Argentina S.A. (Claro),Problemas Técnicos,8
+2019,3,Arnet S.A.,Problemas Técnicos,5
+2019,3,DIRECT TV Argentina S.A.L,Facturación,3
+2019,3,DIRECT TV Argentina S.A.L,Gestiones Administrativas,11
+2019,3,DIRECT TV Argentina S.A.L,Otros,2
+2019,3,DIRECT TV Argentina S.A.L,Problemas Técnicos,2
+2019,3,Fibertel S.A. (TCI),Facturación,4
+2019,3,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2019,3,Fibertel S.A. (TCI),Otros,2
+2019,3,Fibertel S.A. (TCI),Problemas Técnicos,6
+2019,3,Movistar - Telefonica Moviles Argentina S.A.,Facturación,42
+2019,3,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,21
+2019,3,Movistar - Telefonica Moviles Argentina S.A.,Otros,35
+2019,3,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,50
+2019,3,Otros,Facturación,31
+2019,3,Otros,Gestiones Administrativas,12
+2019,3,Otros,Otros,6
+2019,3,Otros,Problemas Técnicos,76
+2019,3,TELECENTRO S.A.,Facturación,19
+2019,3,TELECENTRO S.A.,Gestiones Administrativas,34
+2019,3,TELECENTRO S.A.,Otros,15
+2019,3,TELECENTRO S.A.,Problemas Técnicos,45
+2019,3,Telecom Argentina S.A.,Facturación,98
+2019,3,Telecom Argentina S.A.,Gestiones Administrativas,201
+2019,3,Telecom Argentina S.A.,Otros,35
+2019,3,Telecom Argentina S.A.,Problemas Técnicos,958
+2019,3,Telefonica de Argentina S.A.,Facturación,95
+2019,3,Telefonica de Argentina S.A.,Gestiones Administrativas,207
+2019,3,Telefonica de Argentina S.A.,Otros,10
+2019,3,Telefonica de Argentina S.A.,Problemas Técnicos,598
+2019,3,TELMEX Argentina S.A.,Facturación,2
+2019,3,TELMEX Argentina S.A.,Gestiones Administrativas,3
+2019,3,TELMEX Argentina S.A.,Problemas Técnicos,4
+2019,2,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2019,2,AMX Argentina S.A. (Claro),Facturación,14
+2019,2,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2019,2,AMX Argentina S.A. (Claro),Otros,7
+2019,2,AMX Argentina S.A. (Claro),Problemas Técnicos,6
+2019,2,Arnet S.A.,Problemas Técnicos,7
+2019,2,DIRECT TV Argentina S.A.L,Facturación,3
+2019,2,DIRECT TV Argentina S.A.L,Gestiones Administrativas,14
+2019,2,DIRECT TV Argentina S.A.L,Otros,1
+2019,2,DIRECT TV Argentina S.A.L,Problemas Técnicos,3
+2019,2,Fibertel S.A. (TCI),Facturación,5
+2019,2,Fibertel S.A. (TCI),Gestiones Administrativas,6
+2019,2,Fibertel S.A. (TCI),Otros,2
+2019,2,Fibertel S.A. (TCI),Problemas Técnicos,9
+2019,2,Movistar - Telefonica Moviles Argentina S.A.,Facturación,60
+2019,2,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,25
+2019,2,Movistar - Telefonica Moviles Argentina S.A.,Otros,16
+2019,2,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,49
+2019,2,Nextel Communications Argentina S.A.,Otros,1
+2019,2,NSS S.A.,Facturación,1
+2019,2,Otros,Facturación,8
+2019,2,Otros,Gestiones Administrativas,18
+2019,2,Otros,Otros,5
+2019,2,Otros,Problemas Técnicos,109
+2019,2,SION S.A.,Gestiones Administrativas,1
+2019,2,SION S.A.,Problemas Técnicos,2
+2019,2,TELECENTRO S.A.,Facturación,20
+2019,2,TELECENTRO S.A.,Gestiones Administrativas,50
+2019,2,TELECENTRO S.A.,Otros,7
+2019,2,TELECENTRO S.A.,Problemas Técnicos,79
+2019,2,Telecom Argentina S.A.,Facturación,125
+2019,2,Telecom Argentina S.A.,Gestiones Administrativas,193
+2019,2,Telecom Argentina S.A.,Otros,25
+2019,2,Telecom Argentina S.A.,Problemas Técnicos,1061
+2019,2,Telefonica de Argentina S.A.,Facturación,115
+2019,2,Telefonica de Argentina S.A.,Gestiones Administrativas,261
+2019,2,Telefonica de Argentina S.A.,Otros,10
+2019,2,Telefonica de Argentina S.A.,Problemas Técnicos,833
+2019,2,TELMEX Argentina S.A.,Facturación,2
+2019,2,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2019,2,TELMEX Argentina S.A.,Otros,1
+2019,2,TELMEX Argentina S.A.,Problemas Técnicos,3
+2019,1,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,3
+2019,1,AMX Argentina S.A. (Claro),Facturación,10
+2019,1,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2019,1,AMX Argentina S.A. (Claro),Otros,13
+2019,1,AMX Argentina S.A. (Claro),Problemas Técnicos,11
+2019,1,Arnet S.A.,Facturación,2
+2019,1,Arnet S.A.,Problemas Técnicos,15
+2019,1,DIRECT TV Argentina S.A.L,Facturación,3
+2019,1,DIRECT TV Argentina S.A.L,Gestiones Administrativas,22
+2019,1,DIRECT TV Argentina S.A.L,Otros,2
+2019,1,Fibertel S.A. (TCI),Facturación,5
+2019,1,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2019,1,Fibertel S.A. (TCI),Otros,3
+2019,1,Fibertel S.A. (TCI),Problemas Técnicos,15
+2019,1,Movistar - Telefonica Moviles Argentina S.A.,Facturación,35
+2019,1,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,20
+2019,1,Movistar - Telefonica Moviles Argentina S.A.,Otros,25
+2019,1,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,56
+2019,1,NSS S.A.,Facturación,1
+2019,1,NSS S.A.,Gestiones Administrativas,1
+2019,1,Otros,Facturación,15
+2019,1,Otros,Gestiones Administrativas,11
+2019,1,Otros,Otros,4
+2019,1,Otros,Problemas Técnicos,59
+2019,1,SION S.A.,Facturación,1
+2019,1,TELECENTRO S.A.,Facturación,29
+2019,1,TELECENTRO S.A.,Gestiones Administrativas,60
+2019,1,TELECENTRO S.A.,Otros,4
+2019,1,TELECENTRO S.A.,Problemas Técnicos,52
+2019,1,Telecom Argentina S.A.,Facturación,85
+2019,1,Telecom Argentina S.A.,Gestiones Administrativas,150
+2019,1,Telecom Argentina S.A.,Otros,28
+2019,1,Telecom Argentina S.A.,Problemas Técnicos,1146
+2019,1,Telefonica de Argentina S.A.,Facturación,113
+2019,1,Telefonica de Argentina S.A.,Gestiones Administrativas,271
+2019,1,Telefonica de Argentina S.A.,Otros,14
+2019,1,Telefonica de Argentina S.A.,Problemas Técnicos,1061
+2019,1,TELMEX Argentina S.A.,Facturación,1
+2019,1,TELMEX Argentina S.A.,Gestiones Administrativas,5
+2019,1,TELMEX Argentina S.A.,Otros,1
+2019,1,TELMEX Argentina S.A.,Problemas Técnicos,4
+2018,12,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,1
+2018,12,AMX Argentina S.A. (Claro),Facturación,6
+2018,12,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2018,12,AMX Argentina S.A. (Claro),Otros,8
+2018,12,AMX Argentina S.A. (Claro),Problemas Técnicos,8
+2018,12,Arnet S.A.,Gestiones Administrativas,2
+2018,12,Arnet S.A.,Problemas Técnicos,6
+2018,12,DIRECT TV Argentina S.A.L,Facturación,1
+2018,12,DIRECT TV Argentina S.A.L,Gestiones Administrativas,9
+2018,12,DIRECT TV Argentina S.A.L,Otros,2
+2018,12,Fibertel S.A. (TCI),Gestiones Administrativas,4
+2018,12,Fibertel S.A. (TCI),Problemas Técnicos,7
+2018,12,Movistar - Telefonica Moviles Argentina S.A.,Facturación,26
+2018,12,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,21
+2018,12,Movistar - Telefonica Moviles Argentina S.A.,Otros,28
+2018,12,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,24
+2018,12,Otros,Facturación,4
+2018,12,Otros,Gestiones Administrativas,14
+2018,12,Otros,Otros,5
+2018,12,Otros,Problemas Técnicos,35
+2018,12,PRIMA,Problemas Técnicos,1
+2018,12,SION S.A.,Facturación,1
+2018,12,TELECENTRO S.A.,Facturación,8
+2018,12,TELECENTRO S.A.,Gestiones Administrativas,11
+2018,12,TELECENTRO S.A.,Otros,5
+2018,12,TELECENTRO S.A.,Problemas Técnicos,22
+2018,12,Telecom Argentina S.A.,Facturación,64
+2018,12,Telecom Argentina S.A.,Gestiones Administrativas,110
+2018,12,Telecom Argentina S.A.,Otros,22
+2018,12,Telecom Argentina S.A.,Problemas Técnicos,594
+2018,12,Telefonica de Argentina S.A.,Facturación,89
+2018,12,Telefonica de Argentina S.A.,Gestiones Administrativas,167
+2018,12,Telefonica de Argentina S.A.,Otros,6
+2018,12,Telefonica de Argentina S.A.,Problemas Técnicos,568
+2018,12,TELMEX Argentina S.A.,Problemas Técnicos,5
+2018,11,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2018,11,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,4
+2018,11,AMX Argentina S.A. (Claro),Facturación,6
+2018,11,AMX Argentina S.A. (Claro),Gestiones Administrativas,2
+2018,11,AMX Argentina S.A. (Claro),Otros,8
+2018,11,AMX Argentina S.A. (Claro),Problemas Técnicos,18
+2018,11,Arnet S.A.,Facturación,1
+2018,11,Arnet S.A.,Gestiones Administrativas,1
+2018,11,Arnet S.A.,Problemas Técnicos,7
+2018,11,DIRECT TV Argentina S.A.L,Facturación,6
+2018,11,DIRECT TV Argentina S.A.L,Gestiones Administrativas,17
+2018,11,DIRECT TV Argentina S.A.L,Otros,3
+2018,11,DIRECT TV Argentina S.A.L,Problemas Técnicos,1
+2018,11,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2018,11,Fibertel S.A. (TCI),Otros,1
+2018,11,Fibertel S.A. (TCI),Problemas Técnicos,9
+2018,11,Movistar - Telefonica Moviles Argentina S.A.,Facturación,31
+2018,11,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,28
+2018,11,Movistar - Telefonica Moviles Argentina S.A.,Otros,33
+2018,11,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,26
+2018,11,Otros,Facturación,14
+2018,11,Otros,Gestiones Administrativas,15
+2018,11,Otros,Otros,3
+2018,11,Otros,Problemas Técnicos,67
+2018,11,SION S.A.,Problemas Técnicos,1
+2018,11,TELECENTRO S.A.,Facturación,9
+2018,11,TELECENTRO S.A.,Gestiones Administrativas,12
+2018,11,TELECENTRO S.A.,Otros,4
+2018,11,TELECENTRO S.A.,Problemas Técnicos,50
+2018,11,Telecom Argentina S.A.,Facturación,94
+2018,11,Telecom Argentina S.A.,Gestiones Administrativas,129
+2018,11,Telecom Argentina S.A.,Otros,30
+2018,11,Telecom Argentina S.A.,Problemas Técnicos,714
+2018,11,Telefonica de Argentina S.A.,Facturación,119
+2018,11,Telefonica de Argentina S.A.,Gestiones Administrativas,205
+2018,11,Telefonica de Argentina S.A.,Otros,7
+2018,11,Telefonica de Argentina S.A.,Problemas Técnicos,597
+2018,11,TELMEX Argentina S.A.,Facturación,1
+2018,10,Advance Telecomunicaciones S.A. (Speedy),Facturación,2
+2018,10,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,5
+2018,10,AMX Argentina S.A. (Claro),Facturación,15
+2018,10,AMX Argentina S.A. (Claro),Gestiones Administrativas,9
+2018,10,AMX Argentina S.A. (Claro),Otros,9
+2018,10,AMX Argentina S.A. (Claro),Problemas Técnicos,25
+2018,10,Arnet S.A.,Problemas Técnicos,6
+2018,10,DIRECT TV Argentina S.A.L,Facturación,6
+2018,10,DIRECT TV Argentina S.A.L,Gestiones Administrativas,18
+2018,10,DIRECT TV Argentina S.A.L,Problemas Técnicos,1
+2018,10,Fibertel S.A. (TCI),Facturación,1
+2018,10,Fibertel S.A. (TCI),Gestiones Administrativas,3
+2018,10,Fibertel S.A. (TCI),Otros,5
+2018,10,Fibertel S.A. (TCI),Problemas Técnicos,12
+2018,10,Movistar - Telefonica Moviles Argentina S.A.,Facturación,46
+2018,10,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,20
+2018,10,Movistar - Telefonica Moviles Argentina S.A.,Otros,35
+2018,10,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,28
+2018,10,NSS S.A.,Gestiones Administrativas,2
+2018,10,NSS S.A.,Problemas Técnicos,1
+2018,10,Otros,Facturación,19
+2018,10,Otros,Gestiones Administrativas,12
+2018,10,Otros,Otros,9
+2018,10,Otros,Problemas Técnicos,68
+2018,10,TELECENTRO S.A.,Facturación,14
+2018,10,TELECENTRO S.A.,Gestiones Administrativas,26
+2018,10,TELECENTRO S.A.,Otros,10
+2018,10,TELECENTRO S.A.,Problemas Técnicos,17
+2018,10,Telecom Argentina S.A.,Facturación,122
+2018,10,Telecom Argentina S.A.,Gestiones Administrativas,166
+2018,10,Telecom Argentina S.A.,Otros,26
+2018,10,Telecom Argentina S.A.,Problemas Técnicos,575
+2018,10,Telefonica de Argentina S.A.,Facturación,122
+2018,10,Telefonica de Argentina S.A.,Gestiones Administrativas,244
+2018,10,Telefonica de Argentina S.A.,Otros,11
+2018,10,Telefonica de Argentina S.A.,Problemas Técnicos,623
+2018,10,TELMEX Argentina S.A.,Gestiones Administrativas,4
+2018,10,TELMEX Argentina S.A.,Problemas Técnicos,2
+2018,9,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,2
+2018,9,AMX Argentina S.A. (Claro),Facturación,7
+2018,9,AMX Argentina S.A. (Claro),Gestiones Administrativas,7
+2018,9,AMX Argentina S.A. (Claro),Otros,3
+2018,9,AMX Argentina S.A. (Claro),Problemas Técnicos,15
+2018,9,Arnet S.A.,Facturación,1
+2018,9,Arnet S.A.,Gestiones Administrativas,1
+2018,9,Arnet S.A.,Problemas Técnicos,6
+2018,9,DIRECT TV Argentina S.A.L,Facturación,2
+2018,9,DIRECT TV Argentina S.A.L,Gestiones Administrativas,13
+2018,9,DIRECT TV Argentina S.A.L,Otros,1
+2018,9,Fibertel S.A. (TCI),Facturación,1
+2018,9,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2018,9,Fibertel S.A. (TCI),Otros,1
+2018,9,Fibertel S.A. (TCI),Problemas Técnicos,4
+2018,9,Movistar - Telefonica Moviles Argentina S.A.,Facturación,23
+2018,9,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,18
+2018,9,Movistar - Telefonica Moviles Argentina S.A.,Otros,30
+2018,9,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,21
+2018,9,Nextel Communications Argentina S.A.,Otros,1
+2018,9,Otros,Facturación,10
+2018,9,Otros,Gestiones Administrativas,25
+2018,9,Otros,Otros,3
+2018,9,Otros,Problemas Técnicos,51
+2018,9,PRIMA,Otros,1
+2018,9,TELECENTRO S.A.,Facturación,15
+2018,9,TELECENTRO S.A.,Gestiones Administrativas,25
+2018,9,TELECENTRO S.A.,Otros,5
+2018,9,TELECENTRO S.A.,Problemas Técnicos,44
+2018,9,Telecom Argentina S.A.,Facturación,115
+2018,9,Telecom Argentina S.A.,Gestiones Administrativas,153
+2018,9,Telecom Argentina S.A.,Otros,25
+2018,9,Telecom Argentina S.A.,Problemas Técnicos,497
+2018,9,Telefonica de Argentina S.A.,Facturación,63
+2018,9,Telefonica de Argentina S.A.,Gestiones Administrativas,183
+2018,9,Telefonica de Argentina S.A.,Otros,6
+2018,9,Telefonica de Argentina S.A.,Problemas Técnicos,389
+2018,9,TELMEX Argentina S.A.,Facturación,4
+2018,9,TELMEX Argentina S.A.,Gestiones Administrativas,4
+2018,9,TELMEX Argentina S.A.,Problemas Técnicos,7
+2018,8,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,6
+2018,8,AMX Argentina S.A. (Claro),Facturación,15
+2018,8,AMX Argentina S.A. (Claro),Gestiones Administrativas,3
+2018,8,AMX Argentina S.A. (Claro),Otros,3
+2018,8,AMX Argentina S.A. (Claro),Problemas Técnicos,25
+2018,8,Arnet S.A.,Gestiones Administrativas,1
+2018,8,Arnet S.A.,Problemas Técnicos,6
+2018,8,DIRECT TV Argentina S.A.L,Facturación,7
+2018,8,DIRECT TV Argentina S.A.L,Gestiones Administrativas,6
+2018,8,DIRECT TV Argentina S.A.L,Otros,2
+2018,8,DIRECT TV Argentina S.A.L,Problemas Técnicos,6
+2018,8,Fibertel S.A. (TCI),Facturación,1
+2018,8,Fibertel S.A. (TCI),Otros,3
+2018,8,Fibertel S.A. (TCI),Problemas Técnicos,12
+2018,8,Movistar - Telefonica Moviles Argentina S.A.,Facturación,33
+2018,8,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,20
+2018,8,Movistar - Telefonica Moviles Argentina S.A.,Otros,18
+2018,8,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,20
+2018,8,Nextel Communications Argentina S.A.,Facturación,1
+2018,8,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2018,8,Otros,Facturación,14
+2018,8,Otros,Gestiones Administrativas,20
+2018,8,Otros,Otros,8
+2018,8,Otros,Problemas Técnicos,53
+2018,8,PRIMA,Gestiones Administrativas,1
+2018,8,SION S.A.,Problemas Técnicos,2
+2018,8,TELECENTRO S.A.,Facturación,14
+2018,8,TELECENTRO S.A.,Gestiones Administrativas,48
+2018,8,TELECENTRO S.A.,Otros,7
+2018,8,TELECENTRO S.A.,Problemas Técnicos,48
+2018,8,Telecom Argentina S.A.,Facturación,154
+2018,8,Telecom Argentina S.A.,Gestiones Administrativas,177
+2018,8,Telecom Argentina S.A.,Otros,23
+2018,8,Telecom Argentina S.A.,Problemas Técnicos,644
+2018,8,Telefonica de Argentina S.A.,Facturación,84
+2018,8,Telefonica de Argentina S.A.,Gestiones Administrativas,256
+2018,8,Telefonica de Argentina S.A.,Otros,13
+2018,8,Telefonica de Argentina S.A.,Problemas Técnicos,491
+2018,8,TELMEX Argentina S.A.,Facturación,2
+2018,8,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2018,8,TELMEX Argentina S.A.,Otros,1
+2018,8,TELMEX Argentina S.A.,Problemas Técnicos,6
+2018,7,Advance Telecomunicaciones S.A. (Speedy),Facturación,1
+2018,7,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2018,7,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,4
+2018,7,AMX Argentina S.A. (Claro),Facturación,6
+2018,7,AMX Argentina S.A. (Claro),Gestiones Administrativas,4
+2018,7,AMX Argentina S.A. (Claro),Otros,9
+2018,7,AMX Argentina S.A. (Claro),Problemas Técnicos,12
+2018,7,Arnet S.A.,Otros,1
+2018,7,Arnet S.A.,Problemas Técnicos,6
+2018,7,DIRECT TV Argentina S.A.L,Gestiones Administrativas,6
+2018,7,DIRECT TV Argentina S.A.L,Otros,2
+2018,7,DIRECT TV Argentina S.A.L,Problemas Técnicos,2
+2018,7,Fibertel S.A. (TCI),Facturación,5
+2018,7,Fibertel S.A. (TCI),Gestiones Administrativas,4
+2018,7,Fibertel S.A. (TCI),Otros,8
+2018,7,Fibertel S.A. (TCI),Problemas Técnicos,6
+2018,7,Movistar - Telefonica Moviles Argentina S.A.,Facturación,28
+2018,7,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,16
+2018,7,Movistar - Telefonica Moviles Argentina S.A.,Otros,22
+2018,7,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,33
+2018,7,Nextel Communications Argentina S.A.,Facturación,1
+2018,7,Otros,Facturación,10
+2018,7,Otros,Gestiones Administrativas,5
+2018,7,Otros,Otros,4
+2018,7,Otros,Problemas Técnicos,37
+2018,7,SION S.A.,Gestiones Administrativas,1
+2018,7,SION S.A.,Problemas Técnicos,2
+2018,7,TELECENTRO S.A.,Facturación,13
+2018,7,TELECENTRO S.A.,Gestiones Administrativas,33
+2018,7,TELECENTRO S.A.,Otros,6
+2018,7,TELECENTRO S.A.,Problemas Técnicos,28
+2018,7,Telecom Argentina S.A.,Facturación,140
+2018,7,Telecom Argentina S.A.,Gestiones Administrativas,183
+2018,7,Telecom Argentina S.A.,Otros,29
+2018,7,Telecom Argentina S.A.,Problemas Técnicos,729
+2018,7,Telefonica de Argentina S.A.,Facturación,73
+2018,7,Telefonica de Argentina S.A.,Gestiones Administrativas,218
+2018,7,Telefonica de Argentina S.A.,Otros,7
+2018,7,Telefonica de Argentina S.A.,Problemas Técnicos,418
+2018,7,TELMEX Argentina S.A.,Facturación,1
+2018,7,TELMEX Argentina S.A.,Gestiones Administrativas,1
+2018,7,TELMEX Argentina S.A.,Problemas Técnicos,9
+2018,6,Advance Telecomunicaciones S.A. (Speedy),Facturación,1
+2018,6,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2018,6,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,2
+2018,6,AMX Argentina S.A. (Claro),Facturación,5
+2018,6,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2018,6,AMX Argentina S.A. (Claro),Problemas Técnicos,11
+2018,6,Arnet S.A.,Facturación,2
+2018,6,Arnet S.A.,Gestiones Administrativas,2
+2018,6,Arnet S.A.,Problemas Técnicos,12
+2018,6,DIRECT TV Argentina S.A.L,Facturación,6
+2018,6,DIRECT TV Argentina S.A.L,Gestiones Administrativas,7
+2018,6,DIRECT TV Argentina S.A.L,Otros,1
+2018,6,DIRECT TV Argentina S.A.L,Problemas Técnicos,4
+2018,6,Fibertel S.A. (TCI),Facturación,7
+2018,6,Fibertel S.A. (TCI),Gestiones Administrativas,6
+2018,6,Fibertel S.A. (TCI),Otros,10
+2018,6,Fibertel S.A. (TCI),Problemas Técnicos,33
+2018,6,Movistar - Telefonica Moviles Argentina S.A.,Facturación,34
+2018,6,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,13
+2018,6,Movistar - Telefonica Moviles Argentina S.A.,Otros,30
+2018,6,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,34
+2018,6,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2018,6,NSS S.A.,Problemas Técnicos,2
+2018,6,Otros,Facturación,5
+2018,6,Otros,Gestiones Administrativas,2
+2018,6,Otros,Otros,2
+2018,6,Otros,Problemas Técnicos,27
+2018,6,PRIMA,Gestiones Administrativas,1
+2018,6,SION S.A.,Otros,1
+2018,6,TELECENTRO S.A.,Facturación,7
+2018,6,TELECENTRO S.A.,Gestiones Administrativas,46
+2018,6,TELECENTRO S.A.,Otros,2
+2018,6,TELECENTRO S.A.,Problemas Técnicos,45
+2018,6,Telecom Argentina S.A.,Facturación,152
+2018,6,Telecom Argentina S.A.,Gestiones Administrativas,174
+2018,6,Telecom Argentina S.A.,Otros,30
+2018,6,Telecom Argentina S.A.,Problemas Técnicos,758
+2018,6,Telefonica de Argentina S.A.,Facturación,94
+2018,6,Telefonica de Argentina S.A.,Gestiones Administrativas,199
+2018,6,Telefonica de Argentina S.A.,Otros,6
+2018,6,Telefonica de Argentina S.A.,Problemas Técnicos,358
+2018,5,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2018,5,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,5
+2018,5,AMX Argentina S.A. (Claro),Facturación,7
+2018,5,AMX Argentina S.A. (Claro),Gestiones Administrativas,4
+2018,5,AMX Argentina S.A. (Claro),Otros,1
+2018,5,AMX Argentina S.A. (Claro),Problemas Técnicos,16
+2018,5,Arnet S.A.,Facturación,1
+2018,5,Arnet S.A.,Gestiones Administrativas,1
+2018,5,Arnet S.A.,Problemas Técnicos,22
+2018,5,DIRECT TV Argentina S.A.L,Facturación,3
+2018,5,DIRECT TV Argentina S.A.L,Gestiones Administrativas,23
+2018,5,DIRECT TV Argentina S.A.L,Otros,2
+2018,5,DIRECT TV Argentina S.A.L,Problemas Técnicos,3
+2018,5,Fibertel S.A. (TCI),Facturación,5
+2018,5,Fibertel S.A. (TCI),Gestiones Administrativas,3
+2018,5,Fibertel S.A. (TCI),Otros,3
+2018,5,Fibertel S.A. (TCI),Problemas Técnicos,26
+2018,5,Movistar - Telefonica Moviles Argentina S.A.,Facturación,26
+2018,5,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,10
+2018,5,Movistar - Telefonica Moviles Argentina S.A.,Otros,18
+2018,5,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,24
+2018,5,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2018,5,Otros,Facturación,11
+2018,5,Otros,Gestiones Administrativas,7
+2018,5,Otros,Otros,3
+2018,5,Otros,Problemas Técnicos,44
+2018,5,SION S.A.,Gestiones Administrativas,1
+2018,5,TELECENTRO S.A.,Facturación,11
+2018,5,TELECENTRO S.A.,Gestiones Administrativas,40
+2018,5,TELECENTRO S.A.,Otros,9
+2018,5,TELECENTRO S.A.,Problemas Técnicos,66
+2018,5,Telecom Argentina S.A.,Facturación,180
+2018,5,Telecom Argentina S.A.,Gestiones Administrativas,232
+2018,5,Telecom Argentina S.A.,Otros,23
+2018,5,Telecom Argentina S.A.,Problemas Técnicos,1142
+2018,5,Telefonica de Argentina S.A.,Facturación,121
+2018,5,Telefonica de Argentina S.A.,Gestiones Administrativas,257
+2018,5,Telefonica de Argentina S.A.,Otros,4
+2018,5,Telefonica de Argentina S.A.,Problemas Técnicos,489
+2018,4,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2018,4,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,4
+2018,4,AMX Argentina S.A. (Claro),Facturación,5
+2018,4,AMX Argentina S.A. (Claro),Gestiones Administrativas,5
+2018,4,AMX Argentina S.A. (Claro),Otros,6
+2018,4,AMX Argentina S.A. (Claro),Problemas Técnicos,11
+2018,4,Arnet S.A.,Facturación,1
+2018,4,Arnet S.A.,Gestiones Administrativas,4
+2018,4,Arnet S.A.,Problemas Técnicos,19
+2018,4,DIRECT TV Argentina S.A.L,Facturación,3
+2018,4,DIRECT TV Argentina S.A.L,Gestiones Administrativas,16
+2018,4,DIRECT TV Argentina S.A.L,Otros,2
+2018,4,Fibertel S.A. (TCI),Facturación,4
+2018,4,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2018,4,Fibertel S.A. (TCI),Otros,3
+2018,4,Fibertel S.A. (TCI),Problemas Técnicos,8
+2018,4,Movistar - Telefonica Moviles Argentina S.A.,Facturación,25
+2018,4,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,14
+2018,4,Movistar - Telefonica Moviles Argentina S.A.,Otros,36
+2018,4,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,11
+2018,4,Netizen S.A.,Problemas Técnicos,1
+2018,4,Nextel Communications Argentina S.A.,Gestiones Administrativas,2
+2018,4,Otros,Facturación,5
+2018,4,Otros,Gestiones Administrativas,7
+2018,4,Otros,Otros,3
+2018,4,Otros,Problemas Técnicos,20
+2018,4,SION S.A.,Gestiones Administrativas,1
+2018,4,TELECENTRO S.A.,Facturación,25
+2018,4,TELECENTRO S.A.,Gestiones Administrativas,42
+2018,4,TELECENTRO S.A.,Otros,3
+2018,4,TELECENTRO S.A.,Problemas Técnicos,49
+2018,4,Telecom Argentina S.A.,Facturación,230
+2018,4,Telecom Argentina S.A.,Gestiones Administrativas,255
+2018,4,Telecom Argentina S.A.,Otros,30
+2018,4,Telecom Argentina S.A.,Problemas Técnicos,875
+2018,4,Telefonica de Argentina S.A.,Facturación,82
+2018,4,Telefonica de Argentina S.A.,Gestiones Administrativas,272
+2018,4,Telefonica de Argentina S.A.,Otros,8
+2018,4,Telefonica de Argentina S.A.,Problemas Técnicos,399
+2018,3,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,6
+2018,3,AMX Argentina S.A. (Claro),Facturación,3
+2018,3,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2018,3,AMX Argentina S.A. (Claro),Otros,11
+2018,3,AMX Argentina S.A. (Claro),Problemas Técnicos,20
+2018,3,Arnet S.A.,Facturación,1
+2018,3,Arnet S.A.,Gestiones Administrativas,3
+2018,3,Arnet S.A.,Otros,1
+2018,3,Arnet S.A.,Problemas Técnicos,11
+2018,3,DIRECT TV Argentina S.A.L,Facturación,1
+2018,3,DIRECT TV Argentina S.A.L,Gestiones Administrativas,7
+2018,3,DIRECT TV Argentina S.A.L,Otros,3
+2018,3,DIRECT TV Argentina S.A.L,Problemas Técnicos,3
+2018,3,Fibertel S.A. (TCI),Gestiones Administrativas,3
+2018,3,Fibertel S.A. (TCI),Otros,3
+2018,3,Fibertel S.A. (TCI),Problemas Técnicos,20
+2018,3,Movistar - Telefonica Moviles Argentina S.A.,Facturación,13
+2018,3,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,15
+2018,3,Movistar - Telefonica Moviles Argentina S.A.,Otros,21
+2018,3,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,5
+2018,3,Nextel Communications Argentina S.A.,Facturación,1
+2018,3,Otros,Facturación,1
+2018,3,Otros,Gestiones Administrativas,2
+2018,3,Otros,Otros,6
+2018,3,Otros,Problemas Técnicos,15
+2018,3,PRIMA,Otros,1
+2018,3,SION S.A.,Gestiones Administrativas,1
+2018,3,SION S.A.,Problemas Técnicos,2
+2018,3,TELECENTRO S.A.,Facturación,9
+2018,3,TELECENTRO S.A.,Gestiones Administrativas,41
+2018,3,TELECENTRO S.A.,Otros,7
+2018,3,TELECENTRO S.A.,Problemas Técnicos,71
+2018,3,Telecom Argentina S.A.,Facturación,230
+2018,3,Telecom Argentina S.A.,Gestiones Administrativas,285
+2018,3,Telecom Argentina S.A.,Otros,39
+2018,3,Telecom Argentina S.A.,Problemas Técnicos,1366
+2018,3,Telefonica de Argentina S.A.,Facturación,114
+2018,3,Telefonica de Argentina S.A.,Gestiones Administrativas,291
+2018,3,Telefonica de Argentina S.A.,Otros,2
+2018,3,Telefonica de Argentina S.A.,Problemas Técnicos,456
+2018,2,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,1
+2018,2,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,7
+2018,2,AMX Argentina S.A. (Claro),Facturación,2
+2018,2,AMX Argentina S.A. (Claro),Gestiones Administrativas,3
+2018,2,AMX Argentina S.A. (Claro),Otros,5
+2018,2,AMX Argentina S.A. (Claro),Problemas Técnicos,10
+2018,2,Arnet S.A.,Facturación,2
+2018,2,Arnet S.A.,Gestiones Administrativas,1
+2018,2,Arnet S.A.,Problemas Técnicos,15
+2018,2,DIRECT TV Argentina S.A.L,Facturación,1
+2018,2,DIRECT TV Argentina S.A.L,Gestiones Administrativas,5
+2018,2,DIRECT TV Argentina S.A.L,Otros,2
+2018,2,DIRECT TV Argentina S.A.L,Problemas Técnicos,2
+2018,2,Fibertel S.A. (TCI),Facturación,4
+2018,2,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2018,2,Fibertel S.A. (TCI),Otros,5
+2018,2,Fibertel S.A. (TCI),Problemas Técnicos,23
+2018,2,Movistar - Telefonica Moviles Argentina S.A.,Facturación,14
+2018,2,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,7
+2018,2,Movistar - Telefonica Moviles Argentina S.A.,Otros,17
+2018,2,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,14
+2018,2,Otros,Facturación,4
+2018,2,Otros,Gestiones Administrativas,9
+2018,2,Otros,Otros,7
+2018,2,Otros,Problemas Técnicos,23
+2018,2,SION S.A.,Facturación,1
+2018,2,TELECENTRO S.A.,Facturación,6
+2018,2,TELECENTRO S.A.,Gestiones Administrativas,32
+2018,2,TELECENTRO S.A.,Otros,5
+2018,2,TELECENTRO S.A.,Problemas Técnicos,47
+2018,2,Telecom Argentina S.A.,Facturación,189
+2018,2,Telecom Argentina S.A.,Gestiones Administrativas,284
+2018,2,Telecom Argentina S.A.,Otros,21
+2018,2,Telecom Argentina S.A.,Problemas Técnicos,1479
+2018,2,Telefonica de Argentina S.A.,Facturación,56
+2018,2,Telefonica de Argentina S.A.,Gestiones Administrativas,181
+2018,2,Telefonica de Argentina S.A.,Otros,5
+2018,2,Telefonica de Argentina S.A.,Problemas Técnicos,448
+2018,1,Advance Telecomunicaciones S.A. (Speedy),Facturación,1
+2018,1,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,3
+2018,1,Advance Telecomunicaciones S.A. (Speedy),Otros,2
+2018,1,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,13
+2018,1,AMX Argentina S.A. (Claro),Facturación,8
+2018,1,AMX Argentina S.A. (Claro),Gestiones Administrativas,2
+2018,1,AMX Argentina S.A. (Claro),Otros,5
+2018,1,AMX Argentina S.A. (Claro),Problemas Técnicos,15
+2018,1,Arnet S.A.,Facturación,3
+2018,1,Arnet S.A.,Gestiones Administrativas,2
+2018,1,Arnet S.A.,Otros,1
+2018,1,Arnet S.A.,Problemas Técnicos,22
+2018,1,DIRECT TV Argentina S.A.L,Facturación,1
+2018,1,DIRECT TV Argentina S.A.L,Gestiones Administrativas,10
+2018,1,DIRECT TV Argentina S.A.L,Otros,2
+2018,1,Fibertel S.A. (TCI),Facturación,1
+2018,1,Fibertel S.A. (TCI),Gestiones Administrativas,3
+2018,1,Fibertel S.A. (TCI),Otros,1
+2018,1,Fibertel S.A. (TCI),Problemas Técnicos,14
+2018,1,Movistar - Telefonica Moviles Argentina S.A.,Facturación,12
+2018,1,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,21
+2018,1,Movistar - Telefonica Moviles Argentina S.A.,Otros,18
+2018,1,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,15
+2018,1,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2018,1,Otros,Facturación,6
+2018,1,Otros,Gestiones Administrativas,4
+2018,1,Otros,Otros,8
+2018,1,Otros,Problemas Técnicos,35
+2018,1,PRIMA,Gestiones Administrativas,1
+2018,1,TELECENTRO S.A.,Facturación,9
+2018,1,TELECENTRO S.A.,Gestiones Administrativas,39
+2018,1,TELECENTRO S.A.,Otros,5
+2018,1,TELECENTRO S.A.,Problemas Técnicos,48
+2018,1,Telecom Argentina S.A.,Facturación,184
+2018,1,Telecom Argentina S.A.,Gestiones Administrativas,318
+2018,1,Telecom Argentina S.A.,Otros,23
+2018,1,Telecom Argentina S.A.,Problemas Técnicos,1962
+2018,1,Telefonica de Argentina S.A.,Facturación,87
+2018,1,Telefonica de Argentina S.A.,Gestiones Administrativas,207
+2018,1,Telefonica de Argentina S.A.,Otros,10
+2018,1,Telefonica de Argentina S.A.,Problemas Técnicos,594
+2017,12,Advance Telecomunicaciones S.A. (Speedy),Facturación,5
+2017,12,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,5
+2017,12,Advance Telecomunicaciones S.A. (Speedy),Otros,4
+2017,12,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,100
+2017,12,AMX Argentina S.A. (Claro),Facturación,6
+2017,12,AMX Argentina S.A. (Claro),Gestiones Administrativas,3
+2017,12,AMX Argentina S.A. (Claro),Otros,20
+2017,12,AMX Argentina S.A. (Claro),Problemas Técnicos,9
+2017,12,Arnet S.A.,Facturación,16
+2017,12,Arnet S.A.,Gestiones Administrativas,13
+2017,12,Arnet S.A.,Otros,1
+2017,12,Arnet S.A.,Problemas Técnicos,104
+2017,12,DIRECT TV Argentina S.A.L,Facturación,3
+2017,12,DIRECT TV Argentina S.A.L,Gestiones Administrativas,5
+2017,12,DIRECT TV Argentina S.A.L,Problemas Técnicos,3
+2017,12,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2017,12,Fibertel S.A. (TCI),Otros,1
+2017,12,Fibertel S.A. (TCI),Problemas Técnicos,6
+2017,12,Movistar - Telefonica Moviles Argentina S.A.,Facturación,9
+2017,12,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,9
+2017,12,Movistar - Telefonica Moviles Argentina S.A.,Otros,16
+2017,12,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,20
+2017,12,NSS S.A.,Problemas Técnicos,1
+2017,12,Otros,Facturación,5
+2017,12,Otros,Gestiones Administrativas,5
+2017,12,Otros,Otros,1
+2017,12,Otros,Problemas Técnicos,16
+2017,12,Personal - Telecom Personal S.A.,Facturación,19
+2017,12,Personal - Telecom Personal S.A.,Gestiones Administrativas,12
+2017,12,Personal - Telecom Personal S.A.,Otros,16
+2017,12,Personal - Telecom Personal S.A.,Problemas Técnicos,15
+2017,12,TELECENTRO S.A.,Facturación,6
+2017,12,TELECENTRO S.A.,Gestiones Administrativas,23
+2017,12,TELECENTRO S.A.,Otros,11
+2017,12,TELECENTRO S.A.,Problemas Técnicos,38
+2017,12,Telecom Argentina S.A.,Facturación,102
+2017,12,Telecom Argentina S.A.,Gestiones Administrativas,209
+2017,12,Telecom Argentina S.A.,Problemas Técnicos,1426
+2017,12,Telefonica de Argentina S.A.,Facturación,48
+2017,12,Telefonica de Argentina S.A.,Gestiones Administrativas,122
+2017,12,Telefonica de Argentina S.A.,Problemas Técnicos,324
+2017,12,TELMEX Argentina S.A.,Gestiones Administrativas,1
+2017,11,Advance Telecomunicaciones S.A. (Speedy),Facturación,5
+2017,11,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,18
+2017,11,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,70
+2017,11,AMX Argentina S.A. (Claro),Facturación,4
+2017,11,AMX Argentina S.A. (Claro),Gestiones Administrativas,1
+2017,11,AMX Argentina S.A. (Claro),Otros,5
+2017,11,AMX Argentina S.A. (Claro),Problemas Técnicos,8
+2017,11,Arnet S.A.,Facturación,26
+2017,11,Arnet S.A.,Gestiones Administrativas,20
+2017,11,Arnet S.A.,Otros,3
+2017,11,Arnet S.A.,Problemas Técnicos,132
+2017,11,DIRECT TV Argentina S.A.L,Facturación,1
+2017,11,DIRECT TV Argentina S.A.L,Gestiones Administrativas,4
+2017,11,DIRECT TV Argentina S.A.L,Problemas Técnicos,2
+2017,11,Fibertel S.A. (TCI),Facturación,3
+2017,11,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2017,11,Fibertel S.A. (TCI),Otros,1
+2017,11,Fibertel S.A. (TCI),Problemas Técnicos,3
+2017,11,Movistar - Telefonica Moviles Argentina S.A.,Facturación,20
+2017,11,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,11
+2017,11,Movistar - Telefonica Moviles Argentina S.A.,Otros,25
+2017,11,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,13
+2017,11,Nextel Communications Argentina S.A.,Facturación,1
+2017,11,Otros,Facturación,3
+2017,11,Otros,Gestiones Administrativas,8
+2017,11,Otros,Otros,4
+2017,11,Otros,Problemas Técnicos,13
+2017,11,Personal - Telecom Personal S.A.,Facturación,40
+2017,11,Personal - Telecom Personal S.A.,Gestiones Administrativas,15
+2017,11,Personal - Telecom Personal S.A.,Otros,9
+2017,11,Personal - Telecom Personal S.A.,Problemas Técnicos,10
+2017,11,SION S.A.,Problemas Técnicos,2
+2017,11,TELECENTRO S.A.,Facturación,9
+2017,11,TELECENTRO S.A.,Gestiones Administrativas,31
+2017,11,TELECENTRO S.A.,Otros,8
+2017,11,TELECENTRO S.A.,Problemas Técnicos,44
+2017,11,Telecom Argentina S.A.,Facturación,128
+2017,11,Telecom Argentina S.A.,Gestiones Administrativas,274
+2017,11,Telecom Argentina S.A.,Problemas Técnicos,1845
+2017,11,Telefonica de Argentina S.A.,Facturación,75
+2017,11,Telefonica de Argentina S.A.,Gestiones Administrativas,135
+2017,11,Telefonica de Argentina S.A.,Problemas Técnicos,300
+2017,11,TELMEX Argentina S.A.,Facturación,1
+2017,11,TELMEX Argentina S.A.,Gestiones Administrativas,1
+2017,11,TELMEX Argentina S.A.,Problemas Técnicos,9
+2017,10,Advance Telecomunicaciones S.A. (Speedy),Facturación,6
+2017,10,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,15
+2017,10,Advance Telecomunicaciones S.A. (Speedy),Otros,7
+2017,10,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,90
+2017,10,AMX Argentina S.A. (Claro),Facturación,5
+2017,10,AMX Argentina S.A. (Claro),Gestiones Administrativas,1
+2017,10,AMX Argentina S.A. (Claro),Otros,14
+2017,10,AMX Argentina S.A. (Claro),Problemas Técnicos,18
+2017,10,Arnet S.A.,Facturación,29
+2017,10,Arnet S.A.,Gestiones Administrativas,20
+2017,10,Arnet S.A.,Otros,5
+2017,10,Arnet S.A.,Problemas Técnicos,105
+2017,10,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2017,10,Fibertel S.A. (TCI),Otros,4
+2017,10,Fibertel S.A. (TCI),Problemas Técnicos,7
+2017,10,Movistar - Telefonica Moviles Argentina S.A.,Facturación,19
+2017,10,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,5
+2017,10,Movistar - Telefonica Moviles Argentina S.A.,Otros,22
+2017,10,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,21
+2017,10,Nextel Communications Argentina S.A.,Otros,1
+2017,10,Otros,Facturación,5
+2017,10,Otros,Gestiones Administrativas,10
+2017,10,Otros,Otros,2
+2017,10,Otros,Problemas Técnicos,21
+2017,10,Personal - Telecom Personal S.A.,Facturación,44
+2017,10,Personal - Telecom Personal S.A.,Gestiones Administrativas,23
+2017,10,Personal - Telecom Personal S.A.,Otros,25
+2017,10,Personal - Telecom Personal S.A.,Problemas Técnicos,38
+2017,10,SION S.A.,Gestiones Administrativas,1
+2017,10,TELECENTRO S.A.,Facturación,9
+2017,10,TELECENTRO S.A.,Gestiones Administrativas,40
+2017,10,TELECENTRO S.A.,Otros,3
+2017,10,TELECENTRO S.A.,Problemas Técnicos,29
+2017,10,Telecom Argentina S.A.,Facturación,142
+2017,10,Telecom Argentina S.A.,Gestiones Administrativas,274
+2017,10,Telecom Argentina S.A.,Problemas Técnicos,1567
+2017,10,Telefonica de Argentina S.A.,Facturación,54
+2017,10,Telefonica de Argentina S.A.,Gestiones Administrativas,135
+2017,10,Telefonica de Argentina S.A.,Problemas Técnicos,341
+2017,10,TELMEX Argentina S.A.,Gestiones Administrativas,1
+2017,10,TELMEX Argentina S.A.,Problemas Técnicos,7
+2017,9,Advance Telecomunicaciones S.A. (Speedy),Facturación,13
+2017,9,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,14
+2017,9,Advance Telecomunicaciones S.A. (Speedy),Otros,8
+2017,9,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,99
+2017,9,AMX Argentina S.A. (Claro),Facturación,3
+2017,9,AMX Argentina S.A. (Claro),Gestiones Administrativas,3
+2017,9,AMX Argentina S.A. (Claro),Otros,10
+2017,9,AMX Argentina S.A. (Claro),Problemas Técnicos,32
+2017,9,Arnet S.A.,Facturación,45
+2017,9,Arnet S.A.,Gestiones Administrativas,24
+2017,9,Arnet S.A.,Otros,7
+2017,9,Arnet S.A.,Problemas Técnicos,106
+2017,9,Fibertel S.A. (TCI),Facturación,2
+2017,9,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2017,9,Fibertel S.A. (TCI),Otros,2
+2017,9,Fibertel S.A. (TCI),Problemas Técnicos,11
+2017,9,Movistar - Telefonica Moviles Argentina S.A.,Facturación,22
+2017,9,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,18
+2017,9,Movistar - Telefonica Moviles Argentina S.A.,Otros,27
+2017,9,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,24
+2017,9,Otros,Facturación,3
+2017,9,Otros,Gestiones Administrativas,7
+2017,9,Otros,Otros,4
+2017,9,Otros,Problemas Técnicos,16
+2017,9,Personal - Telecom Personal S.A.,Facturación,51
+2017,9,Personal - Telecom Personal S.A.,Gestiones Administrativas,23
+2017,9,Personal - Telecom Personal S.A.,Otros,32
+2017,9,Personal - Telecom Personal S.A.,Problemas Técnicos,7
+2017,9,TELECENTRO S.A.,Facturación,9
+2017,9,TELECENTRO S.A.,Gestiones Administrativas,13
+2017,9,TELECENTRO S.A.,Otros,2
+2017,9,TELECENTRO S.A.,Problemas Técnicos,19
+2017,9,Telecom Argentina S.A.,Facturación,127
+2017,9,Telecom Argentina S.A.,Gestiones Administrativas,280
+2017,9,Telecom Argentina S.A.,Problemas Técnicos,1220
+2017,9,Telefonica de Argentina S.A.,Facturación,77
+2017,9,Telefonica de Argentina S.A.,Gestiones Administrativas,142
+2017,9,Telefonica de Argentina S.A.,Problemas Técnicos,309
+2017,9,TELMEX Argentina S.A.,Gestiones Administrativas,3
+2017,9,TELMEX Argentina S.A.,Problemas Técnicos,2
+2017,8,Advance Telecomunicaciones S.A. (Speedy),Facturación,32
+2017,8,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,26
+2017,8,Advance Telecomunicaciones S.A. (Speedy),Otros,13
+2017,8,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,145
+2017,8,AMX Argentina S.A. (Claro),Facturación,8
+2017,8,AMX Argentina S.A. (Claro),Gestiones Administrativas,4
+2017,8,AMX Argentina S.A. (Claro),Otros,8
+2017,8,AMX Argentina S.A. (Claro),Problemas Técnicos,10
+2017,8,Arnet S.A.,Facturación,51
+2017,8,Arnet S.A.,Gestiones Administrativas,20
+2017,8,Arnet S.A.,Otros,12
+2017,8,Arnet S.A.,Problemas Técnicos,131
+2017,8,Fibertel S.A. (TCI),Facturación,2
+2017,8,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2017,8,Fibertel S.A. (TCI),Otros,8
+2017,8,Fibertel S.A. (TCI),Problemas Técnicos,7
+2017,8,Movistar - Telefonica Moviles Argentina S.A.,Facturación,30
+2017,8,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,12
+2017,8,Movistar - Telefonica Moviles Argentina S.A.,Otros,31
+2017,8,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,10
+2017,8,Nextel Communications Argentina S.A.,Facturación,1
+2017,8,Otros,Facturación,11
+2017,8,Otros,Gestiones Administrativas,3
+2017,8,Otros,Otros,4
+2017,8,Otros,Problemas Técnicos,21
+2017,8,Personal - Telecom Personal S.A.,Facturación,52
+2017,8,Personal - Telecom Personal S.A.,Gestiones Administrativas,17
+2017,8,Personal - Telecom Personal S.A.,Otros,35
+2017,8,Personal - Telecom Personal S.A.,Problemas Técnicos,15
+2017,8,TELECENTRO S.A.,Facturación,13
+2017,8,TELECENTRO S.A.,Gestiones Administrativas,19
+2017,8,TELECENTRO S.A.,Otros,6
+2017,8,TELECENTRO S.A.,Problemas Técnicos,16
+2017,8,Telecom Argentina S.A.,Facturación,174
+2017,8,Telecom Argentina S.A.,Gestiones Administrativas,284
+2017,8,Telecom Argentina S.A.,Problemas Técnicos,1385
+2017,8,Telefonica de Argentina S.A.,Facturación,109
+2017,8,Telefonica de Argentina S.A.,Gestiones Administrativas,167
+2017,8,Telefonica de Argentina S.A.,Problemas Técnicos,343
+2017,8,TELMEX Argentina S.A.,Gestiones Administrativas,1
+2017,8,TELMEX Argentina S.A.,Problemas Técnicos,11
+2017,7,Advance Telecomunicaciones S.A. (Speedy),Facturación,10
+2017,7,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,15
+2017,7,Advance Telecomunicaciones S.A. (Speedy),Otros,6
+2017,7,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,121
+2017,7,AMX Argentina S.A. (Claro),Facturación,5
+2017,7,AMX Argentina S.A. (Claro),Gestiones Administrativas,8
+2017,7,AMX Argentina S.A. (Claro),Otros,8
+2017,7,AMX Argentina S.A. (Claro),Problemas Técnicos,15
+2017,7,Arnet S.A.,Facturación,51
+2017,7,Arnet S.A.,Gestiones Administrativas,17
+2017,7,Arnet S.A.,Otros,9
+2017,7,Arnet S.A.,Problemas Técnicos,113
+2017,7,Fibertel S.A. (TCI),Facturación,2
+2017,7,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2017,7,Fibertel S.A. (TCI),Otros,3
+2017,7,Fibertel S.A. (TCI),Problemas Técnicos,1
+2017,7,Movistar - Telefonica Moviles Argentina S.A.,Facturación,33
+2017,7,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,20
+2017,7,Movistar - Telefonica Moviles Argentina S.A.,Otros,31
+2017,7,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,17
+2017,7,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2017,7,Nextel Communications Argentina S.A.,Otros,2
+2017,7,Otros,Facturación,4
+2017,7,Otros,Gestiones Administrativas,7
+2017,7,Otros,Otros,5
+2017,7,Otros,Problemas Técnicos,27
+2017,7,Personal - Telecom Personal S.A.,Facturación,55
+2017,7,Personal - Telecom Personal S.A.,Gestiones Administrativas,19
+2017,7,Personal - Telecom Personal S.A.,Otros,44
+2017,7,Personal - Telecom Personal S.A.,Problemas Técnicos,17
+2017,7,TELECENTRO S.A.,Facturación,10
+2017,7,TELECENTRO S.A.,Gestiones Administrativas,17
+2017,7,TELECENTRO S.A.,Otros,5
+2017,7,TELECENTRO S.A.,Problemas Técnicos,24
+2017,7,Telecom Argentina S.A.,Facturación,157
+2017,7,Telecom Argentina S.A.,Gestiones Administrativas,308
+2017,7,Telecom Argentina S.A.,Problemas Técnicos,1331
+2017,7,Telefonica de Argentina S.A.,Facturación,97
+2017,7,Telefonica de Argentina S.A.,Gestiones Administrativas,178
+2017,7,Telefonica de Argentina S.A.,Problemas Técnicos,283
+2017,7,TELMEX Argentina S.A.,Facturación,1
+2017,7,TELMEX Argentina S.A.,Gestiones Administrativas,4
+2017,7,TELMEX Argentina S.A.,Problemas Técnicos,13
+2017,6,Advance Telecomunicaciones S.A. (Speedy),Facturación,15
+2017,6,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,25
+2017,6,Advance Telecomunicaciones S.A. (Speedy),Otros,15
+2017,6,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,107
+2017,6,AMX Argentina S.A. (Claro),Facturación,5
+2017,6,AMX Argentina S.A. (Claro),Gestiones Administrativas,7
+2017,6,AMX Argentina S.A. (Claro),Otros,26
+2017,6,AMX Argentina S.A. (Claro),Problemas Técnicos,12
+2017,6,Arnet S.A.,Facturación,66
+2017,6,Arnet S.A.,Gestiones Administrativas,36
+2017,6,Arnet S.A.,Otros,10
+2017,6,Arnet S.A.,Problemas Técnicos,105
+2017,6,Fibertel S.A. (TCI),Facturación,2
+2017,6,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2017,6,Fibertel S.A. (TCI),Otros,2
+2017,6,Fibertel S.A. (TCI),Problemas Técnicos,4
+2017,6,Movistar - Telefonica Moviles Argentina S.A.,Facturación,34
+2017,6,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,25
+2017,6,Movistar - Telefonica Moviles Argentina S.A.,Otros,43
+2017,6,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,14
+2017,6,Nextel Communications Argentina S.A.,Facturación,3
+2017,6,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2017,6,Nextel Communications Argentina S.A.,Otros,1
+2017,6,Otros,Facturación,4
+2017,6,Otros,Gestiones Administrativas,6
+2017,6,Otros,Otros,5
+2017,6,Otros,Problemas Técnicos,20
+2017,6,Personal - Telecom Personal S.A.,Facturación,40
+2017,6,Personal - Telecom Personal S.A.,Gestiones Administrativas,20
+2017,6,Personal - Telecom Personal S.A.,Otros,50
+2017,6,Personal - Telecom Personal S.A.,Problemas Técnicos,10
+2017,6,TELECENTRO S.A.,Facturación,14
+2017,6,TELECENTRO S.A.,Gestiones Administrativas,19
+2017,6,TELECENTRO S.A.,Otros,7
+2017,6,TELECENTRO S.A.,Problemas Técnicos,29
+2017,6,Telecom Argentina S.A.,Facturación,193
+2017,6,Telecom Argentina S.A.,Gestiones Administrativas,345
+2017,6,Telecom Argentina S.A.,Problemas Técnicos,1266
+2017,6,Telefonica de Argentina S.A.,Facturación,109
+2017,6,Telefonica de Argentina S.A.,Gestiones Administrativas,175
+2017,6,Telefonica de Argentina S.A.,Problemas Técnicos,276
+2017,6,TELMEX Argentina S.A.,Facturación,2
+2017,6,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2017,6,TELMEX Argentina S.A.,Problemas Técnicos,10
+2017,5,Advance Telecomunicaciones S.A. (Speedy),Facturación,13
+2017,5,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,15
+2017,5,Advance Telecomunicaciones S.A. (Speedy),Otros,6
+2017,5,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,109
+2017,5,AMX Argentina S.A. (Claro),Facturación,8
+2017,5,AMX Argentina S.A. (Claro),Gestiones Administrativas,7
+2017,5,AMX Argentina S.A. (Claro),Otros,14
+2017,5,AMX Argentina S.A. (Claro),Problemas Técnicos,10
+2017,5,Arnet S.A.,Facturación,82
+2017,5,Arnet S.A.,Gestiones Administrativas,34
+2017,5,Arnet S.A.,Otros,9
+2017,5,Arnet S.A.,Problemas Técnicos,151
+2017,5,Fibertel S.A. (TCI),Facturación,3
+2017,5,Fibertel S.A. (TCI),Gestiones Administrativas,2
+2017,5,Fibertel S.A. (TCI),Otros,1
+2017,5,Fibertel S.A. (TCI),Problemas Técnicos,8
+2017,5,Movistar - Telefonica Moviles Argentina S.A.,Facturación,33
+2017,5,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,14
+2017,5,Movistar - Telefonica Moviles Argentina S.A.,Otros,39
+2017,5,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,10
+2017,5,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2017,5,Otros,Facturación,5
+2017,5,Otros,Gestiones Administrativas,7
+2017,5,Otros,Otros,4
+2017,5,Otros,Problemas Técnicos,43
+2017,5,Personal - Telecom Personal S.A.,Facturación,57
+2017,5,Personal - Telecom Personal S.A.,Gestiones Administrativas,26
+2017,5,Personal - Telecom Personal S.A.,Otros,59
+2017,5,Personal - Telecom Personal S.A.,Problemas Técnicos,24
+2017,5,TELECENTRO S.A.,Gestiones Administrativas,6
+2017,5,TELECENTRO S.A.,Otros,3
+2017,5,TELECENTRO S.A.,Problemas Técnicos,7
+2017,5,Telecom Argentina S.A.,Facturación,256
+2017,5,Telecom Argentina S.A.,Gestiones Administrativas,425
+2017,5,Telecom Argentina S.A.,Problemas Técnicos,1609
+2017,5,Telefonica de Argentina S.A.,Facturación,87
+2017,5,Telefonica de Argentina S.A.,Gestiones Administrativas,188
+2017,5,Telefonica de Argentina S.A.,Problemas Técnicos,336
+2017,5,TELMEX Argentina S.A.,Facturación,1
+2017,5,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2017,5,TELMEX Argentina S.A.,Problemas Técnicos,4
+2017,4,Advance Telecomunicaciones S.A. (Speedy),Facturación,11
+2017,4,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,18
+2017,4,Advance Telecomunicaciones S.A. (Speedy),Otros,11
+2017,4,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,109
+2017,4,AMX Argentina S.A. (Claro),Facturación,8
+2017,4,AMX Argentina S.A. (Claro),Gestiones Administrativas,3
+2017,4,AMX Argentina S.A. (Claro),Otros,10
+2017,4,AMX Argentina S.A. (Claro),Problemas Técnicos,16
+2017,4,Arnet S.A.,Facturación,53
+2017,4,Arnet S.A.,Gestiones Administrativas,41
+2017,4,Arnet S.A.,Otros,6
+2017,4,Arnet S.A.,Problemas Técnicos,129
+2017,4,Fibertel S.A. (TCI),Facturación,1
+2017,4,Fibertel S.A. (TCI),Gestiones Administrativas,3
+2017,4,Fibertel S.A. (TCI),Otros,4
+2017,4,Fibertel S.A. (TCI),Problemas Técnicos,9
+2017,4,Movistar - Telefonica Moviles Argentina S.A.,Facturación,28
+2017,4,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,20
+2017,4,Movistar - Telefonica Moviles Argentina S.A.,Otros,27
+2017,4,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,17
+2017,4,Nextel Communications Argentina S.A.,Gestiones Administrativas,4
+2017,4,Nextel Communications Argentina S.A.,Otros,2
+2017,4,Otros,Facturación,3
+2017,4,Otros,Gestiones Administrativas,5
+2017,4,Otros,Otros,3
+2017,4,Otros,Problemas Técnicos,12
+2017,4,Personal - Telecom Personal S.A.,Facturación,51
+2017,4,Personal - Telecom Personal S.A.,Gestiones Administrativas,23
+2017,4,Personal - Telecom Personal S.A.,Otros,43
+2017,4,Personal - Telecom Personal S.A.,Problemas Técnicos,21
+2017,4,SION S.A.,Problemas Técnicos,1
+2017,4,TELECENTRO S.A.,Facturación,1
+2017,4,TELECENTRO S.A.,Gestiones Administrativas,3
+2017,4,TELECENTRO S.A.,Otros,1
+2017,4,TELECENTRO S.A.,Problemas Técnicos,2
+2017,4,Telecom Argentina S.A.,Facturación,163
+2017,4,Telecom Argentina S.A.,Gestiones Administrativas,398
+2017,4,Telecom Argentina S.A.,Problemas Técnicos,1364
+2017,4,Telefonica de Argentina S.A.,Facturación,75
+2017,4,Telefonica de Argentina S.A.,Gestiones Administrativas,187
+2017,4,Telefonica de Argentina S.A.,Problemas Técnicos,394
+2017,4,TELMEX Argentina S.A.,Facturación,1
+2017,4,TELMEX Argentina S.A.,Gestiones Administrativas,2
+2017,4,TELMEX Argentina S.A.,Problemas Técnicos,15
+2017,3,Advance Telecomunicaciones S.A. (Speedy),Facturación,14
+2017,3,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,24
+2017,3,Advance Telecomunicaciones S.A. (Speedy),Otros,9
+2017,3,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,132
+2017,3,AMX Argentina S.A. (Claro),Facturación,8
+2017,3,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2017,3,AMX Argentina S.A. (Claro),Otros,10
+2017,3,AMX Argentina S.A. (Claro),Problemas Técnicos,19
+2017,3,Arnet S.A.,Facturación,56
+2017,3,Arnet S.A.,Gestiones Administrativas,23
+2017,3,Arnet S.A.,Otros,8
+2017,3,Arnet S.A.,Problemas Técnicos,194
+2017,3,Fibertel S.A. (TCI),Otros,1
+2017,3,Fibertel S.A. (TCI),Problemas Técnicos,5
+2017,3,Movistar - Telefonica Moviles Argentina S.A.,Facturación,42
+2017,3,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,18
+2017,3,Movistar - Telefonica Moviles Argentina S.A.,Otros,35
+2017,3,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,22
+2017,3,Nextel Communications Argentina S.A.,Facturación,1
+2017,3,Nextel Communications Argentina S.A.,Otros,1
+2017,3,Otros,Facturación,2
+2017,3,Otros,Gestiones Administrativas,5
+2017,3,Otros,Otros,3
+2017,3,Otros,Problemas Técnicos,32
+2017,3,Personal - Telecom Personal S.A.,Facturación,73
+2017,3,Personal - Telecom Personal S.A.,Gestiones Administrativas,28
+2017,3,Personal - Telecom Personal S.A.,Otros,30
+2017,3,Personal - Telecom Personal S.A.,Problemas Técnicos,20
+2017,3,SION S.A.,Gestiones Administrativas,1
+2017,3,SION S.A.,Problemas Técnicos,1
+2017,3,TELECENTRO S.A.,Facturación,5
+2017,3,TELECENTRO S.A.,Gestiones Administrativas,6
+2017,3,TELECENTRO S.A.,Otros,2
+2017,3,TELECENTRO S.A.,Problemas Técnicos,7
+2017,3,Telecom Argentina S.A.,Facturación,210
+2017,3,Telecom Argentina S.A.,Gestiones Administrativas,464
+2017,3,Telecom Argentina S.A.,Problemas Técnicos,1943
+2017,3,Telefonica de Argentina S.A.,Facturación,70
+2017,3,Telefonica de Argentina S.A.,Gestiones Administrativas,181
+2017,3,Telefonica de Argentina S.A.,Problemas Técnicos,443
+2017,3,TELMEX Argentina S.A.,Facturación,1
+2017,3,TELMEX Argentina S.A.,Gestiones Administrativas,8
+2017,3,TELMEX Argentina S.A.,Otros,1
+2017,3,TELMEX Argentina S.A.,Problemas Técnicos,6
+2017,2,Advance Telecomunicaciones S.A. (Speedy),Facturación,7
+2017,2,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,15
+2017,2,Advance Telecomunicaciones S.A. (Speedy),Otros,9
+2017,2,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,98
+2017,2,AMX Argentina S.A. (Claro),Facturación,5
+2017,2,AMX Argentina S.A. (Claro),Gestiones Administrativas,6
+2017,2,AMX Argentina S.A. (Claro),Otros,9
+2017,2,AMX Argentina S.A. (Claro),Problemas Técnicos,13
+2017,2,Arnet S.A.,Facturación,56
+2017,2,Arnet S.A.,Gestiones Administrativas,12
+2017,2,Arnet S.A.,Otros,10
+2017,2,Arnet S.A.,Problemas Técnicos,137
+2017,2,Fibertel S.A. (TCI),Facturación,3
+2017,2,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2017,2,Fibertel S.A. (TCI),Otros,1
+2017,2,Fibertel S.A. (TCI),Problemas Técnicos,10
+2017,2,Movistar - Telefonica Moviles Argentina S.A.,Facturación,18
+2017,2,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,17
+2017,2,Movistar - Telefonica Moviles Argentina S.A.,Otros,26
+2017,2,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,19
+2017,2,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2017,2,Otros,Facturación,4
+2017,2,Otros,Gestiones Administrativas,2
+2017,2,Otros,Problemas Técnicos,13
+2017,2,Personal - Telecom Personal S.A.,Facturación,78
+2017,2,Personal - Telecom Personal S.A.,Gestiones Administrativas,27
+2017,2,Personal - Telecom Personal S.A.,Otros,40
+2017,2,Personal - Telecom Personal S.A.,Problemas Técnicos,15
+2017,2,SION S.A.,Facturación,2
+2017,2,SION S.A.,Gestiones Administrativas,1
+2017,2,SION S.A.,Problemas Técnicos,1
+2017,2,TELECENTRO S.A.,Gestiones Administrativas,8
+2017,2,TELECENTRO S.A.,Otros,1
+2017,2,TELECENTRO S.A.,Problemas Técnicos,4
+2017,2,Telecom Argentina S.A.,Facturación,106
+2017,2,Telecom Argentina S.A.,Gestiones Administrativas,344
+2017,2,Telecom Argentina S.A.,Problemas Técnicos,1541
+2017,2,Telefonica de Argentina S.A.,Facturación,50
+2017,2,Telefonica de Argentina S.A.,Gestiones Administrativas,138
+2017,2,Telefonica de Argentina S.A.,Problemas Técnicos,336
+2017,2,TELMEX Argentina S.A.,Facturación,1
+2017,2,TELMEX Argentina S.A.,Gestiones Administrativas,7
+2017,2,TELMEX Argentina S.A.,Problemas Técnicos,12
+2017,1,Advance Telecomunicaciones S.A. (Speedy),Facturación,4
+2017,1,Advance Telecomunicaciones S.A. (Speedy),Gestiones Administrativas,17
+2017,1,Advance Telecomunicaciones S.A. (Speedy),Otros,11
+2017,1,Advance Telecomunicaciones S.A. (Speedy),Problemas Técnicos,122
+2017,1,AMX Argentina S.A. (Claro),Facturación,13
+2017,1,AMX Argentina S.A. (Claro),Gestiones Administrativas,1
+2017,1,AMX Argentina S.A. (Claro),Otros,5
+2017,1,AMX Argentina S.A. (Claro),Problemas Técnicos,18
+2017,1,Arnet S.A.,Facturación,69
+2017,1,Arnet S.A.,Gestiones Administrativas,23
+2017,1,Arnet S.A.,Otros,14
+2017,1,Arnet S.A.,Problemas Técnicos,147
+2017,1,Fibertel S.A. (TCI),Facturación,4
+2017,1,Fibertel S.A. (TCI),Gestiones Administrativas,1
+2017,1,Fibertel S.A. (TCI),Otros,2
+2017,1,Fibertel S.A. (TCI),Problemas Técnicos,7
+2017,1,Movistar - Telefonica Moviles Argentina S.A.,Facturación,40
+2017,1,Movistar - Telefonica Moviles Argentina S.A.,Gestiones Administrativas,21
+2017,1,Movistar - Telefonica Moviles Argentina S.A.,Otros,26
+2017,1,Movistar - Telefonica Moviles Argentina S.A.,Problemas Técnicos,12
+2017,1,Nextel Communications Argentina S.A.,Facturación,1
+2017,1,Nextel Communications Argentina S.A.,Gestiones Administrativas,1
+2017,1,Otros,Facturación,5
+2017,1,Otros,Gestiones Administrativas,5
+2017,1,Otros,Otros,2
+2017,1,Otros,Problemas Técnicos,13
+2017,1,Personal - Telecom Personal S.A.,Facturación,86
+2017,1,Personal - Telecom Personal S.A.,Gestiones Administrativas,20
+2017,1,Personal - Telecom Personal S.A.,Otros,41
+2017,1,Personal - Telecom Personal S.A.,Problemas Técnicos,15
+2017,1,SION S.A.,Gestiones Administrativas,1
+2017,1,TELECENTRO S.A.,Facturación,6
+2017,1,TELECENTRO S.A.,Gestiones Administrativas,9
+2017,1,TELECENTRO S.A.,Otros,1
+2017,1,TELECENTRO S.A.,Problemas Técnicos,5
+2017,1,Telecom Argentina S.A.,Facturación,137
+2017,1,Telecom Argentina S.A.,Gestiones Administrativas,368
+2017,1,Telecom Argentina S.A.,Problemas Técnicos,1839
+2017,1,Telefonica de Argentina S.A.,Facturación,60
+2017,1,Telefonica de Argentina S.A.,Gestiones Administrativas,189
+2017,1,Telefonica de Argentina S.A.,Problemas Técnicos,347
+2017,1,TELMEX Argentina S.A.,Gestiones Administrativas,7
+2017,1,TELMEX Argentina S.A.,Otros,1
+2017,1,TELMEX Argentina S.A.,Problemas Técnicos,6
