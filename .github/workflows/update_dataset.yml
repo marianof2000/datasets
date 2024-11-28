@@ -25,7 +25,7 @@ jobs:
 
       - name: Download dataset
         run: |
-          curl -o dataset.csv http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv
+          wget -cv dataset.csv "http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv"
 
       - name: Compress dataset with 7-Zip
         run: |
