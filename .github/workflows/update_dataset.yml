@@ -2,7 +2,7 @@ name: Update and Compress Dataset
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # Corre todos los días a la medianoche (UTC)
+    - cron: '0 6 * * *'  # Corre todos los días a las 3 am  (UTC -3)
   workflow_dispatch:  # Permite ejecutarlo manualmente.
 
 jobs:
@@ -30,7 +30,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add precios-historicos.7z
-          git commit -m "precios-historicos.7z:Update dataset with compressed file"
+          git commit -m "precios-historicos.7z:Update dataset with compressed file on $(date)"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
