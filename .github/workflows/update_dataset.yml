@@ -30,7 +30,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add precios-historicos.7z
-          git commit -m "Update dataset with compressed file"
+          git commit -m "precios-historicos.7z:Update dataset with compressed file"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
