@@ -1,9 +1,9 @@
-name: Update Dataset with 7-Zip
+name: Update and Compress Dataset
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Corre todos los días a la medianoche (UTC)
-  workflow_dispatch: # Permite ejecutarlo manualmente desde la interfaz de GitHub.
+    - cron: '0 0 * * *'  # Corre todos los días a la medianoche (UTC)
+  workflow_dispatch:  # Permite ejecutarlo manualmente.
 
 jobs:
   update-dataset:
@@ -13,30 +13,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
       - name: Install 7-Zip
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y p7zip-full
+        run: sudo apt-get install -y p7zip-full
 
       - name: Download dataset
         run: |
-          wget -cvO precios-historicos.csv "http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv"
+          wget -O precios-historicos.csv "http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv"
 
       - name: Compress dataset with 7-Zip
         run: |
-          7z a precios-historicos.csv.7z precios-historicos.csv
+          7z a precios-historicos.7z precios-historicos.csv
+          rm precios-historicos.csv  # Borra el archivo original para dejar solo el comprimido
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add precios-historicos.csv
-          git commit -m "Update dataset"
+          git add precios-historicos.7z
+          git commit -m "Update dataset with compressed file"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
