@@ -25,12 +25,18 @@ jobs:
           7z a precios-historicos.7z precios-historicos.csv
           rm precios-historicos.csv  # Borra el archivo original para dejar solo el comprimido
 
+      - name: List files
+        run: ls -lh precios-historicos.7z
+
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add precios-historicos.7z
-          git commit -m "precios-historicos.7z:Update dataset with compressed file on $(date)"
+          git add -f precios-historicos.7z
+          git diff --cached --quiet || git commit -m "precios-historicos.7z:Update dataset with compressed file on $(date)"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Remove 7-Zip
+        run: rm precios-historicos.7z
