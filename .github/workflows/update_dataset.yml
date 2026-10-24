@@ -2,8 +2,8 @@ name: Update and Compress Dataset
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Corre todos los días a las 3 am  (UTC -3)
-  workflow_dispatch:  # Permite ejecutarlo manualmente.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-dataset:
@@ -11,35 +11,36 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install 7-Zip
-        run: sudo apt-get install -y p7zip-full
+        run: sudo apt-get update && sudo apt-get install -y p7zip-full
 
       - name: Download dataset
         run: |
-          wget --timeout=60\
-          --tries=30 --waitretry=10\
-          -O precios-historicos.csv "http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv"\
-          || echo "No se pudo descargar el archivo"
+          curl -L \
+            --retry 10 \
+            --retry-delay 30 \
+            --connect-timeout 60 \
+            --max-time 600 \
+            -o precios-historicos.csv \
+            "http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv"
 
-      - name: Compress dataset with 7-Zip
+          test -s precios-historicos.csv
+
+      - name: Compress dataset
         run: |
           7z a precios-historicos.7z precios-historicos.csv
-          rm precios-historicos.csv  # Borra el archivo original para dejar solo el comprimido
+          rm precios-historicos.csv
 
-      - name: List files
-        run: ls -lh precios-historicos.7z
-
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f precios-historicos.7z
-          git diff --cached --quiet || git commit -m "precios-historicos.7z:Update dataset with compressed file on $(date)"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Remove 7-Zip
-        run: rm precios-historicos.7z
+          git add precios-historicos.7z
+
+          git diff --cached --quiet || \
+          git commit -m "Actualizar dataset $(date +'%Y-%m-%d')"
+
+          git push
