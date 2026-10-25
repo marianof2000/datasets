@@ -22,7 +22,7 @@ jobs:
             --timeout=60 \
             --tries=3 \
             -O precios-historicos.csv \
-            "https://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv"
+            "http://datos.energia.gob.ar/dataset/1c181390-5045-475e-94dc-410429be4b17/resource/f8dda0d5-2a9f-4d34-b79b-4e63de3995df/download/precios-historicos.csv"
 
           test -s precios-historicos.csv
 
